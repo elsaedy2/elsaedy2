@@ -9,7 +9,7 @@ Systems port said
 
 
 
-Skills:
+Skills
 *HTML 
 *CSS
 *C#
