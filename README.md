@@ -10,13 +10,13 @@ Systems port said
 
 
 Skills
-*HTML 
-*CSS
-*C#
-*LINQ C#
-*JWT
-*ENTITY FRAMEWORK
-*ASP.NET CORE API
+* HTML 
+* CSS
+* C#
+* LINQ C#
+* JWT
+* ENTITY FRAMEWORK
+* ASP.NET CORE API
 
 - 🔭 I’m currently working on this page. 
 
