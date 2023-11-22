@@ -1,5 +1,5 @@
 
-## Hi there 👋, my name is  mahmou bdell fatah 
+## Hi there 👋, my name is  mahmoud abdell fatah 
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
